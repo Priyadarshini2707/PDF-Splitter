@@ -1,0 +1,50 @@
+.splitter-container {
+    margin-top: 50px;
+    text-align: center;
+}
+  
+.splitter-container h1 {
+    margin-bottom: 20px;
+}
+  
+.splitter-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+.splitter-container label {
+    margin-top: 10px;
+    color: black;
+    font-size: 14px; /* Reduced font size */
+}
+  
+.splitter-container input,
+.splitter-container button {
+    margin-top: 10px;
+    padding: 12px;
+    width: 300px;
+}
+  
+.splitter-container .file-input-button {
+    margin-top: 10px;
+    padding: 12px; /* Increased padding to match Rearranger */
+    background-color: palevioletred; /* PaleVioletRed color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px; /* Increased font size to match Rearranger */
+}
+
+.splitter-container button {
+    background-color: purple; /* Purple color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.splitter-container button:hover {
+    background-color: darkmagenta; /* Darker purple color on hover */
+}

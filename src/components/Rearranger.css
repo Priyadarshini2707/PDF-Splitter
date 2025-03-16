@@ -1,0 +1,51 @@
+.rearranger-container {
+    margin-top: 50px;
+    text-align: center;
+}
+  
+.rearranger-container h1 {
+    margin-bottom: 20px;
+}
+  
+.rearranger-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+.rearranger-container label {
+    margin-top: 10px;
+    color: black;
+    font-size: 14px; /* Reduced font size */
+}
+  
+.rearranger-container input,
+.rearranger-container button {
+    margin-top: 10px;
+    padding: 12px;
+    width: 300px;
+}
+  
+.rearranger-container .file-input-button {
+    margin-top: 10px;
+    padding: 6px; /* Reduce padding to make button smaller */
+    width: 120px; /* Reduce width to make button smaller */
+    background-color:palevioletred;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px; /* Reduce font size to make text smaller */
+}
+  
+.rearranger-container button {
+    background-color: purple; /* Purple color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+.rearranger-container button:hover {
+    background-color: darkmagenta; /* Darker purple color on hover */
+}

@@ -1,0 +1,70 @@
+.rotator-container {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .rotator-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .rotator-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .rotator-container label {
+    margin-top: 10px;
+    color: black;
+    font-size: 14px; /* Reduced font size */
+  }
+  
+  .rotator-container input,
+  .rotator-container button {
+    margin-top: 10px;
+    padding: 12px;
+    width: 300px;
+  }
+  
+  .rotator-container .file-input-button {
+    margin-top: 10px;
+    padding: 6px; /* Reduce padding to make button smaller */
+    width: 120px; /* Reduce width to make button smaller */
+    background-color:palevioletred;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px; /* Reduce font size to make text smaller */
+  }
+  
+  .rotator-container button {
+    background-color: purple; /* Purple color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .rotator-container button:hover {
+    background-color: darkmagenta; /* Darker purple color on hover */
+  }
+  
+  .viewer-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .pdf-viewer {
+    border: 1px solid #ccc;
+    width: 45%; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+  
+  @media screen and (max-width: 768px) {
+    .pdf-viewer {
+      width: 90%; /* Adjust width for smaller screens */
+    }
+  }
+  
