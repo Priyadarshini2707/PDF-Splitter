@@ -1,4 +1,7 @@
 # PDF-Splitter
-![Screenshot (549)](https://github.com/user-attachments/assets/503fe1de-7a8e-44cc-8535-ec419e349a2e) ![Screenshot (550)](https://github.com/user-attachments/assets/93d313b7-7b28-4317-98f2-c8ac83f5615e) ![Screenshot (551)](https://github.com/user-attachments/assets/2b00194d-05b5-4d0b-a3c6-d19f93b2bcef)
+![Screenshot (549)](https://github.com/user-attachments/assets/55333062-3dbe-43c5-8528-85ccfae642d1) ![Screenshot (550)](https://github.com/user-attachments/assets/cd0af294-8b3a-443d-8343-f0b9fcba20be) ![Screenshot (551)](https://github.com/user-attachments/assets/13cfeb5e-17f2-420d-86d1-5bbff3053251)
+
+
+
 
 
